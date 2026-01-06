@@ -108,7 +108,7 @@
 // area of triangle
 
 // import java.util.Scanner;
-// public class area{
+// public class v{
 // public static void main(String[] args){
 //     Scanner s=new Scanner(System.in);
     
@@ -118,8 +118,8 @@
 //     double b=s.nextDouble();
 //     System.out.print("enter the height: ");
 //     double h=s.nextDouble();
-//     double area=l*b*h;
-//     System.out.print("the area of triangle"+area);
+//     double v=l*b*h;
+//     System.out.print("the area of triangle"+v);
 //     s.close();
 // }
     
