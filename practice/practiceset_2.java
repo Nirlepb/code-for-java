@@ -49,6 +49,18 @@ public class practiceset_2 {
         // sc.close();
         // int age=18;
         // System.out.printf("my age is  %d ",age);
+        System.out.println("enter the number");
+        Scanner sc=new Scanner(System.in);
+        double number=sc.nextInt();
+        double ans;
+        double ans2;
+        ans=Math.sqrt(number);
+        ans2= number*number;
+
+        System.out.println("the answer "+ans);
+        System.out.println(ans2);
+        sc.close();
+
 
 
     }
