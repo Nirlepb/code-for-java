@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 // public class star {
 //     public static void main(String[] args) {
 //         Scanner s=new Scanner(System.in);
@@ -33,4 +33,42 @@ import java.util.Scanner;
 //         s.close();
 //     }
 
+// }
+// public class star {
+
+
+//     public static void main(String[] args) {
+//         Scanner s=new Scanner(System.in);
+//         System.out.print("Enter the star number : ");
+//         int n= s.nextInt();
+//         for (int i=1;i<=n;i++){
+//             for (int j=1;j<=n-i;j++){
+//                 System.out.print(" ");
+//             }
+//             for(int k=1;k<=2*i-1;k++){
+//                 System.out.print("*");
+//             }
+//         System.out.println();    
+//         }
+//         s.close();
+//     }
+// }
+// public class star {
+
+
+//     public static void main(String[] args) {
+//         Scanner s=new Scanner(System.in);
+//         System.out.print("Enter the star number : ");
+//         int n= s.nextInt();
+//         for (int i=n;i>=1;i--){
+//             for (int j=1;j<=n-i;j++){
+//                 System.out.print(" ");
+//             }
+//             for(int k=1;k<=2*i-1;k++){
+//                 System.out.print(i);
+//             }
+//         System.out.println();    
+//         }
+//         s.close();
+//     }
 // }
