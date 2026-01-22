@@ -65,7 +65,7 @@ public class printNumberInWord {
             System.out.println("nine");
             break;  
             default:
-                System.out.println("enter a valid number :`");  
+                System.out.println("enter a valid number :");  
         }
         s.close();
         
