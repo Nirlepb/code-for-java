@@ -37,6 +37,7 @@ public class Eswarquestion {
             int wheat=s.nextInt();
             System.out.println("ENTER THE rice  :");
             int rice=s.nextInt();
+            s.nextLine();
             rations[i]=new Ration(Adharnumber, Sugar, wheat, rice);
 
 
@@ -65,6 +66,11 @@ public class Eswarquestion {
                     }
                     
                     break;
+
+                case 'B':
+                    for(Ration ration:rations){
+                        ration.displaySugar();
+                    }    
             
                 default:
                     break;
